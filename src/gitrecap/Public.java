@@ -6,5 +6,8 @@ public class Public {
 	public void test() {
 		
 	}
+	public void testTwo() {
+		
+	}
 }
 
