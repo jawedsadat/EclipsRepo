@@ -9,5 +9,9 @@ public class Public {
 	public void testTwo() {
 		
 	}
+	public static void main(String[] args) {
+		
+	}
+	
 }
 
